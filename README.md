@@ -7,7 +7,7 @@
 ## Results:
 
 #### The resources adopted from the started code and modified to complete this project are included in the following files at the Github link provided below. 
-html file: 
+html file: https://github.com/cherylberger/Belly_Button_Biodiversity/blob/main/Module%2012_Challenge/index.html
 logic file (JavaScript): 
 data file (JSON):
 

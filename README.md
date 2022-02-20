@@ -49,5 +49,5 @@ data file (JSON): https://github.com/cherylberger/Belly_Button_Biodiversity/blob
      ![image](https://user-images.githubusercontent.com/94234511/154868093-b67642df-7745-428f-a6c0-bfb989967af4.png)
 
 ## Summary:
-      
+Once the boostrap components are added to the .html file, when the new code is executed and the webpage opened in Chrome using a local server http://localhost:8000/ the output appears as follows: 
 ![image](https://user-images.githubusercontent.com/94234511/154867892-99408c89-ec58-4640-8ae5-85ad467cf5b4.png)

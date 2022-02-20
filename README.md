@@ -19,14 +19,14 @@ data file (JSON):
 
 #### Deliverable 4 - Add three boostrap features and customize the webpage for improved visualization
 
-  **Added jumbotron class and included a image of rod bacteria, personalized the title and added a CSS display (display-3), then, changed style (color:blue) to <p> in <h1>
+  ##### Added jumbotron class and included a image of rod bacteria, personalized the title and added a CSS display (display-3), then, changed style (color:blue) to <p> in <h1>
   
   
-  **Added a page background:
+  Added a page background:
   
     <body style = "background: rgb(97, 194, 126)">
       
-  **Made bold font for all chart titles to match the gauge chart by updating the text in the charts.js file
+  Made bold font for all chart titles to match the gauge chart by updating the text in the charts.js file
       
       JS code for Example 1 (bar chart): 
       title: { text: "<b>Top 10 Bacteria Cultures Found<b>" },
@@ -34,7 +34,7 @@ data file (JSON):
       JS code for Example 2 (bubble chart):   
       title: { text: "<b>Bacterial Cultures Per Sample<b>" },
 
-  ** Below is the code for the index.html
+  Below is the code for the index.html
      ![image](https://user-images.githubusercontent.com/94234511/154867958-10c40b10-6d99-4d3f-b9c2-12f8bc2220bb.png)
 
      Below is the code for the charts.js file

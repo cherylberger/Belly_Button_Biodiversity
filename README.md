@@ -8,8 +8,10 @@
 
 #### The resources adopted from the started code and modified to complete this project are included in the following files at the Github link provided below. 
 html file: https://github.com/cherylberger/Belly_Button_Biodiversity/blob/main/Module%2012_Challenge/index.html
+
 logic file (JavaScript): 
-data file (JSON):
+
+data file (JSON): https://github.com/cherylberger/Belly_Button_Biodiversity/blob/main/Module%2012_Challenge/static/js/samples.json
 
 #### Deliverable 1 - Create a horizontal bar chart that displays the Top 10 bacterial cultures found in the cultures of each participants belly button.
 

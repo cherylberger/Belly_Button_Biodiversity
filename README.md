@@ -21,9 +21,6 @@ data file (JSON):
 
   **Added jumbotron class and included a image of rod bacteria, personalized the title and added a CSS display (display-3), then, changed style (color:blue) to <p> in <h1>
   
-   <div class="jumbotron" style="background-image: url(https://tse2.mm.bing.net/th?id=OIP.kIjvnSAs-dc9xScMp1BcGAHaEt&pid=Api&P=0&w=295&h=187); background-size: 20%;"></div>
-        <h1 class= "display-3">Belly Button Biodiversity by Berger</h1>
-        <p style="color:blue">Use the interactive charts below to explore the dataset</p>
   
   **Added a page background:
   
@@ -36,5 +33,15 @@ data file (JSON):
       
       JS code for Example 2 (bubble chart):   
       title: { text: "<b>Bacterial Cultures Per Sample<b>" },
-      
+
+  ** Below is the code for the index.html
+     ![image](https://user-images.githubusercontent.com/94234511/154867958-10c40b10-6d99-4d3f-b9c2-12f8bc2220bb.png)
+
+     Below is the code for the charts.js file
+     ![image](https://user-images.githubusercontent.com/94234511/154867983-58c4ae32-c14e-465f-9089-2dc821cd6f47.png)
+     ![image](https://user-images.githubusercontent.com/94234511/154868029-b67a3c41-2073-4a8d-bb0f-b28434821ea5.png)
+     ![image](https://user-images.githubusercontent.com/94234511/154868075-e5a2731c-bdb0-4b26-a818-dbc2a6cc0fd5.png)
+     ![image](https://user-images.githubusercontent.com/94234511/154868093-b67642df-7745-428f-a6c0-bfb989967af4.png)
+
 ## Summary:
+![image](https://user-images.githubusercontent.com/94234511/154867892-99408c89-ec58-4640-8ae5-85ad467cf5b4.png)
